@@ -35,8 +35,11 @@ Inspirada na estética clean dos apps iOS, combina simplicidade, eficiência e u
 
 ## 📲 Como Testar
 
-- Escaneie o QR Code usando o app **Expo Go** no seu celular
-- Ou execute o projeto diretamente pelo navegador usando o **Snack**
+Você pode baixar a última versão do ZenCalc no link abaixo:
+
+👉 [Baixar APK do ZenCalc (v1.0.0)](https://github.com/elen-c-sales/zencalc/releases/download/v1.0.0/zencalc.apk)
+
+Ou acessar pela seção [Releases](https://github.com/elen-c-sales/zencalc/releases).
 
 ---
 
