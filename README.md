@@ -22,7 +22,10 @@ Inspirada na estética clean dos apps iOS, combina simplicidade, eficiência e u
 - Botões grandes, arredondados e minimalistas
 - Estilo inspirado nas calculadoras do iPhone
 - Layout responsivo para simulação em iOS e Android
-
+<div align="center">
+  <img src="https://github.com/elen-c-sales/zencalc/blob/main/demonstracao.png" 
+       alt="Tela Principal" width="300"/>
+</div>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
